@@ -1,7 +1,8 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vite.dev/config/
+// Buraya kendi GitHub repo adını yaz
 export default defineConfig({
+  base: '/odeme-formu/',
   plugins: [react()],
 })

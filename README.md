@@ -18,3 +18,4 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 ```bash
 npm install
 npm run dev
+
